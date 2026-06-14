@@ -1,4 +1,4 @@
-# 🩺 MedPath AI — Clinical Reasoning Assistant
+# 🩺 MedPath AI : Clinical Reasoning Assistant
 
 ## Overview
 MedPath AI is an AI-powered clinical reasoning assistant built for the Microsoft AI Hackathon. It uses Azure AI Foundry (Phi-4 model) to analyze user-reported symptoms and generate structured, explainable medical reasoning including urgency classification, differential diagnosis, and recommended next steps.
